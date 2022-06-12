@@ -1,0 +1,13 @@
+C:\Users\Mark Meadows\source\repos\Retention\bin\Debug\Retention.exe.config
+C:\Users\Mark Meadows\source\repos\Retention\bin\Debug\Retention.exe
+C:\Users\Mark Meadows\source\repos\Retention\bin\Debug\Retention.pdb
+C:\Users\Mark Meadows\source\repos\Retention\bin\Debug\Retention.xml
+C:\Users\Mark Meadows\source\repos\Retention\obj\Debug\Retention.vbprojAssemblyReference.cache
+C:\Users\Mark Meadows\source\repos\Retention\obj\Debug\Retention.Resources.resources
+C:\Users\Mark Meadows\source\repos\Retention\obj\Debug\Retention.ProjectInstaller.resources
+C:\Users\Mark Meadows\source\repos\Retention\obj\Debug\Retention.Retention.resources
+C:\Users\Mark Meadows\source\repos\Retention\obj\Debug\Retention.vbproj.GenerateResource.cache
+C:\Users\Mark Meadows\source\repos\Retention\obj\Debug\Retention.vbproj.CoreCompileInputs.cache
+C:\Users\Mark Meadows\source\repos\Retention\obj\Debug\Retention.exe
+C:\Users\Mark Meadows\source\repos\Retention\obj\Debug\Retention.xml
+C:\Users\Mark Meadows\source\repos\Retention\obj\Debug\Retention.pdb
