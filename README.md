@@ -1,5 +1,5 @@
 # Retention
-Service that runs on a widows machine t only allow 30 days file retention in a directory
+Service that runs on a windows machine to only allow 30 days file retention in a directory
 
 This service was created for a spacific purpose.
 It runs as a windows service and monitors the "C:\ProgramData\Gallagher\Backup\" Directory. 
