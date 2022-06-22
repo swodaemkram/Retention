@@ -22,7 +22,7 @@ This will make a fairly usefull service to monitor log directorys and the like a
 
 *************************************************************************************************************************<br>
 
-The paramiters are now hard coded but can be over riden by registry entrys <br>
+The paramiters are now hard coded but can be overridden by registry entrys <br>
 ----> HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Retention<br>
       ---->DaysToKeep - Integer 32 bit - (30)<br>
            ExtensionToMonitor - NOT IMPLAMENTED YET !<br>
