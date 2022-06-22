@@ -22,11 +22,11 @@ This will make a fairly usefull service to monitor log directorys and the like a
 
 *************************************************************************************************************************<br>
 
-The paramiters are now hard coded but can be over riden by registry entrys 
-----> HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Retention
-      ---->DaysToKeep - Integer 32 bit - (30)
-           ExtensionToMonitor - NOT IMPLAMENTED YET !
-           PathToMonitor - String - (C:\Whatever\)
-           TimeOfDayToDeleteFiles - String in - (HH:mm) format
- I will be writing a GUI to create and manage this Registry Entry abd thus manage the Retention Service
+The paramiters are now hard coded but can be over riden by registry entrys <br>
+----> HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Retention<br>
+      ---->DaysToKeep - Integer 32 bit - (30)<br>
+           ExtensionToMonitor - NOT IMPLAMENTED YET !<br>
+           PathToMonitor - String - (C:\Whatever\)>br>
+           TimeOfDayToDeleteFiles - String in - (HH:mm) format<br>
+ I will be writing a GUI to create and manage this Registry Entry abd thus manage the Retention Service<br>
  
