@@ -18,9 +18,9 @@ As of right now all paramiters are hard coded this will change in future version
 and change the retention time for a fixed 30 days to what ever you want.
 Also I will add a way to change the hard coded Directory that Retention watches.
 
-This will make a fairly usefull service to monitor log directorys and the like and prevent perpetual retention of files.
+This will make a fairly usefull service to monitor log directorys and the like and prevent perpetual retention of files.<br>
 
-*************************************************************************************************************************
+*************************************************************************************************************************<br>
 
 The paramiters are now hard coded but can be over riden by registry entrys 
 ----> HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Retention
