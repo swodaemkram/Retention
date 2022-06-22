@@ -20,3 +20,13 @@ Also I will add a way to change the hard coded Directory that Retention watches.
 
 This will make a fairly usefull service to monitor log directorys and the like and prevent perpetual retention of files.
 
+*************************************************************************************************************************
+
+The paramiters are now hard coded but can be over riden by registry entrys 
+----> HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Retention
+      ---->DaysToKeep - Integer 32 bit - (30)
+           ExtensionToMonitor - NOT IMPLAMENTED YET !
+           PathToMonitor - String - (C:\Whatever\)
+           TimeOfDayToDeleteFiles - String in - (HH:mm) format
+ I will be writing a GUI to create and manage this Registry Entry abd thus manage the Retention Service
+ 
