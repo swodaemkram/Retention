@@ -10,3 +10,4 @@ C:\Users\Mark Meadows\source\repos\Retention\obj\Debug\Retention.vbproj.CoreComp
 C:\Users\Mark Meadows\source\repos\Retention\obj\Debug\Retention.exe
 C:\Users\Mark Meadows\source\repos\Retention\obj\Debug\Retention.xml
 C:\Users\Mark Meadows\source\repos\Retention\obj\Debug\Retention.pdb
+C:\Users\Mark Meadows\source\repos\Retention\obj\Debug\Retention.vbprojAssemblyReference.cache
