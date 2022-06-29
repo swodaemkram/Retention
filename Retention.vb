@@ -35,10 +35,11 @@
 
         Timer1.Start()
 
-        WriteLog(DateString & " " & TimeString & " " & Me.ServiceName & " Started")
+        WriteLog(DateString & " " & TimeString & " " & Me.ServiceName & " Version 1.0.2 Started")
         WriteLog(DateString & " " & TimeString & " " & Me.ServiceName & " Using ..." & PathToMonitor & " As path to monitor")
         WriteLog(DateString & " " & TimeString & " " & Me.ServiceName & " Using ..." & DaysToKeep & " Days To Keep ")
         WriteLog(DateString & " " & TimeString & " " & Me.ServiceName & " Using ..." & TimeOfDayToDeleteFiles & " As time of day to delete files")
+
 
         'T_O_D_T_D_F = Convert.ToDateTime(TimeOfDayToDeleteFiles)
 
